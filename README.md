@@ -58,16 +58,22 @@ Dashboard Displays Real-Time Analytics
 ## 📸 Project Screenshots
 
 ### Dashboard Overview
-![Dashboard](https://placehold.co/800x400?text=Dashboard+Overview+Analytics)
+![Dashboard](dashboard-overview.png)
 
-### Contacts & CSV Import
-![Contacts](https://placehold.co/800x400?text=Contacts+Management+and+CSV+Upload)
+### Contacts Management
+![Contacts](contacts-management.png)
 
-### Email Templates & Campaigns
-![Templates](https://placehold.co/800x400?text=Markdown+Templates+and+Campaigns)
+### Email Templates
+![Templates](template-management.png)
 
-### System Settings & Worker Logs
-![System](https://placehold.co/800x400?text=Python+Worker+Settings+and+Logs)
+### Campaign Management
+![Campaigns](campaign-management.png)
+
+### Reminder Scheduling
+![Reminders](reminder-scheduling.png)
+
+### System Settings & Python Worker
+![System](system-settings.png)
 
 ## 🧠 Engineering Concepts Demonstrated
 - **Background Worker Architecture**: Offloading heavy/scheduled tasks to a separate process.
